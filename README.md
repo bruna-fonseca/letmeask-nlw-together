@@ -22,9 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Firebase - Realtime Database](https://firebase.google.com/docs/database)
-- [Firebase - Authentication](https://firebase.google.com/docs/auth)
-- [Firebase - Hosting](https://firebase.google.com/docs/hosting)
+- 🔥[Firebase - Realtime Database](https://firebase.google.com/docs/database)
+- 🔥[Firebase - Authentication](https://firebase.google.com/docs/auth)
+- 🔥[Firebase - Hosting](https://firebase.google.com/docs/hosting)
 
 
 ## 💻 Projeto
